@@ -6,3 +6,7 @@ This repository is about classifying space rocks by using Python and artificial 
 * Nasa Astromaterials: https://curator.jsc.nasa.gov/ 
 * The OSIRIS-REx mission: https://www.asteroidmission.org/objectives/
 
+
+**Below.** An image of an area that an astronaut might survey for rocks:
+
+<img src="https://github.com/natnew/Classify-space-rocks-by-using-Python-and-artificial-intelligence/blob/main/Nasa.PNG" alt="Here's a photo of an area that an astronaut might survey for rocks ">
