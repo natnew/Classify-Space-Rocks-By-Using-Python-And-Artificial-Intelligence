@@ -1,5 +1,5 @@
 # Classify-space-rocks-by-using-Python-and-artificial-intelligence
-This repository is about classifying space rocks by using Python and AI (artificial intelligence).
+This repository is about classifying space rocks collected by NASA using Python and AI (artificial intelligence).
 
 #### Further Reading:
 * Read more about Antarctic meteorites: https://www.britannica.com/science/Antarctic-meteorite
