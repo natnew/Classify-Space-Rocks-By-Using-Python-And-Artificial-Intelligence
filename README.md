@@ -30,3 +30,6 @@ I used **Visual Studio Code, Python, and Jupyter Notebook**. I reviewed code to 
 * Learn the importance of cleaning and separating data
 * Discover how computers read photos as images in binary format
 * Use code to clean and separate data, read and display images, and assign classifications
+* What neural networks are, and how to build a neural network for an AI model
+* The steps to train an AI model
+* How to test a model by having it classify various space rocks
