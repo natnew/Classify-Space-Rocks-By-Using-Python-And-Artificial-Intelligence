@@ -18,11 +18,18 @@ Tensor Flow Python, Keras Python, Theano Python, Scikit-Learn Pyhon, PyTorch Pyt
 <img src="https://github.com/natnew/Classify-space-rocks-by-using-Python-and-artificial-intelligence/blob/main/Nasa.PNG" alt="Here's a photo of an area that an astronaut might survey for rocks ">
 
 #### Project:
-In this project...
+- In this project...
+- I conducted some research about artificial intelligence (AI) and how the technology can be used to enhance a project. This was so that I could create my own program that uses AI.
+- I used **Visual Studio Code, Python, and Jupyter Notebook**. 
+- Once I imported the libraries into the Jupyter Notebook, I cleaned and separated the data. I resized the images because computers expect images to be the same size. If images vary in size, they're not as easy for the computer to process.
+- 20% of the cleaned images were for training and the other 80% was for testing. I then loaded random images from the two datasets.
+- I loaded the images into the computer. And gave them labels to indicate what type of rock is in each photo.
+- I built a neural network (or deep learning network) to learn the associations between features and each rock type.
+- Next, I trained the program. I use the training data from NASA. I added code to help the program become accurate in classifying space rocks.
+- I used the model to make predictions.
+- Finally, I tested my complete AI mode!
 
-I learned about artificial intelligence (AI) and how the technology can be used to enhance a project. This was so that I could create my own program that uses AI.
 
-I used **Visual Studio Code, Python, and Jupyter Notebook**. I reviewed code to clean rock images to prepare data for the program. Then I looked at the code to **create and train the AI model**.
 
 #### Skills gained from this project:
 * Import AI libraries
