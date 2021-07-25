@@ -17,3 +17,9 @@ Tensor Flow Python, Keras Python, Theano Python, Scikit-Learn Pyhon, PyTorch Pyt
 
 <img src="https://github.com/natnew/Classify-space-rocks-by-using-Python-and-artificial-intelligence/blob/main/Nasa.PNG" alt="Here's a photo of an area that an astronaut might survey for rocks ">
 
+#### Project:
+In this project...
+
+I learned about artificial intelligence (AI) and how the technology can be used to enhance a project. This was so that I could create my own program that uses AI.
+
+I used **Visual Studio Code, Python, and Jupyter Notebook**. I reviewed code to clean rock images to prepare data for the program. Then I looked at the code to **create and train the AI model**.
