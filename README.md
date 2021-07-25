@@ -27,7 +27,7 @@ Tensor Flow Python, Keras Python, Theano Python, Scikit-Learn Pyhon, PyTorch Pyt
 - I built a neural network (or deep learning network) to learn the associations between features and each rock type.
 - Next, I trained the program. I use the training data from NASA. I added code to help the program become accurate in classifying space rocks.
 - I used the model to make predictions.
-- Finally, I tested my complete AI mode!
+- Finally, I tested my complete AI model!
 
 
 
