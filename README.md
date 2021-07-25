@@ -24,7 +24,7 @@ I learned about artificial intelligence (AI) and how the technology can be used 
 
 I used **Visual Studio Code, Python, and Jupyter Notebook**. I reviewed code to clean rock images to prepare data for the program. Then I looked at the code to **create and train the AI model**.
 
-#### Skills Gained from this project:
+#### Skills gained from this project:
 * Import AI libraries
 * Download and import NASA data to use with an AI program
 * Learn the importance of cleaning and separating data
